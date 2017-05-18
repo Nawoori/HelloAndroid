@@ -53,5 +53,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             tv.setText("안녕 안드로이드!!!");
         }
     };
-
 }
