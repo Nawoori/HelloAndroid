@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         tv = (TextView) findViewById(R.id.textView);
-        btn = (Button) findViewById(R.id.btnClick);
+        btn = (Button) findViewById(R.id.btnclick);
 
         // 1 번형태로 구현
         btn.setOnClickListener(this);
