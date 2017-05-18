@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // 1 번형태로 구현
         btn.setOnClickListener(this);
 
+
         // 2 번형태로 구현 - 아래에 구현된 리스너를 등록해준다.
         btn.setOnClickListener(listener);
 
